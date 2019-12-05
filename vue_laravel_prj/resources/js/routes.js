@@ -1,8 +1,9 @@
 import Vue from "vue";
 import VueRouter from "vue-router";
 
-import Home from "@/js/components/Home";
-import About from "@/js/components/About";
+import Index from "@/js/layouts/Index";
+import HomePage from "@/js/pages/HomePage";
+import About from "@/js/pages/About";
 
 Vue.use(VueRouter);
 
@@ -11,13 +12,19 @@ const router = new VueRouter({
    routes: [
        {
            path: '/',
-           name: 'home',
-           component: Home
-       },
-       {
-           path: '/about',
-           name: 'about',
-           component: About
+           component: Index,
+           children: [
+               {
+                   path: '',
+                   name: 'home',
+                   component: HomePage
+               },
+               {
+                   path: 'about',
+                   name: 'about',
+                   component: About
+               },
+           ]
        }
    ]
 });

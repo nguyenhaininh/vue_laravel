@@ -1,0 +1,17 @@
+{
+    "about" : "About",
+    "study" : "Studying",
+    "life" : "Life Story",
+    "love" : "Love Story",
+    "another" : "Another",
+    "language" : "Language",
+    "cooking" : "Cooking",
+    "cosmetic" : "Cosmetic",
+    "create_post_button" : "Create Post",
+    "stop_edit" : "Quit",
+    "edit_post" : "Edit",
+    "delete_post" : "Delete",
+    "submit_post" : "Submit",
+    "login" : "Login",
+    "register" : "Register"
+}

@@ -1,0 +1,17 @@
+{
+    "about" : "Giới thiệu",
+    "study" : "Chuyện học hành",
+    "life" : "Chuyện cuộc sống",
+    "love" : "Chuyện tình cảm",
+    "another" : "Kỹ năng siêu mềm",
+    "language" : "Ngôn ngữ",
+    "cooking" : "Nấu ăn",
+    "cosmetic" : "Mỹ phẩm",
+    "create_post_button" : "Viết bài",
+    "stop_edit" : "Thoát",
+    "edit_post" : "Chỉnh sửa",
+    "delete_post" : "Xoá bài",
+    "submit_post" : "Đăng bài",
+    "login" : "Đăng nhập",
+    "register" : "Đăng ký"
+}
