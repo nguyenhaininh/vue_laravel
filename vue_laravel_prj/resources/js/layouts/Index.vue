@@ -3,7 +3,7 @@
         <Header />
 
         <v-content>
-            <v-container>
+            <v-container class="my-5">
                 <router-view />
             </v-container>
         </v-content>

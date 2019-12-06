@@ -1,12 +1,13 @@
-import './bootstrap';
-import Vue from 'vue';
-import Vuetify from 'vuetify';
+import "./bootstrap";
+import "./plugins/vuetify";
+import Vue from "vue";
+import Vuetify from "vuetify";
 
 // Route information for Vue Router
-import Routes from '@/js/routes.js';
+import Routes from "@/js/routes.js";
 
 // Component File
-import App from '@/js/views/App';
+import App from "@/js/views/App";
 
 Vue.use(Vuetify);
 

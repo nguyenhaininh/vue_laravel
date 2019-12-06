@@ -18,9 +18,11 @@
     "vuex": "^3.1.2"
   },
   "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.11.2",
     "@kazupon/vue-i18n-loader": "^0.3.0",
     "axios": "^0.19",
     "cross-env": "^5.1",
+    "font-awesome": "^4.7.0",
     "laravel-mix": "^4.0.7",
     "lodash": "^4.17.13",
     "resolve-url-loader": "^2.3.1",
