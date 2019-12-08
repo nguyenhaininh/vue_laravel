@@ -2,46 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5920a137-e773-4ba8-b8c5-2af8148eb311" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/database/migrations/2019_12_06_053245_create_posts_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2019_12_06_053601_create_categories_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2019_12_06_053815_create_comments_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/vendor/@mdi/materialdesignicons-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/vendor/@mdi/materialdesignicons-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/vendor/@mdi/materialdesignicons-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/vendor/@mdi/materialdesignicons-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pho.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/js/components/Auth/Login.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/js/components/Auth/Register.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/js/plugins/vuetify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/js/stores/modules/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/js/stores/store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vue_laravel_prj.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vue_laravel_prj.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/flags/flag_en.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/flags/flag_jp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/flags/flag_vi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/logo-title.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/js/pages/Coding.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/js/pages/Cooking.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/js/pages/Discuss.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/js/pages/Japanese.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/js/pages/WorkStory.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/components/Auth/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/Auth/Login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/components/Auth/Register.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/Auth/Register.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/js/components/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/Header.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/i18n.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/i18n.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/layouts/Index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/layouts/Index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/pages/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/pages/LifeStory.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/js/pages/HomePage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/pages/HomePage.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/js/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/routes.js" afterDir="false" />
     </list>
@@ -213,6 +190,8 @@
       <workItem from="1575605234527" duration="25000" />
       <workItem from="1575605551406" duration="11000" />
       <workItem from="1575605575543" duration="17229000" />
+      <workItem from="1575654315187" duration="1331000" />
+      <workItem from="1575683585793" duration="16406000" />
     </task>
     <servers />
   </component>
@@ -244,6 +223,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="408" y="196" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1575605558872" />
+    <state x="0" y="23" key="FileDocumentManager.FileCacheConflict" timestamp="1575712972699">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="0" y="23" key="FileDocumentManager.FileCacheConflict/0.23.1680.1027@0.23.1680.1027" timestamp="1575712972699" />
     <state x="2224" y="470" key="NewPhpFileDialog" timestamp="1575609975798">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>

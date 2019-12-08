@@ -42,16 +42,11 @@
                                 v-model="confirm_password"
                                 :error="!valid()"
                             ></v-text-field>
-
-                            <v-checkbox
-                                v-model="checkbox"
-                                label="Remember Me"
-                                :rules="[v => !!v]"
-                            ></v-checkbox>
                         </v-form>
                     </v-card-text>
                     <v-card-actions>
                         <v-btn to="/login" rounded color="primary" dark>Login</v-btn>
+                        <v-spacer></v-spacer>
                         <v-btn rounded color="success" @click.prevent="register()">
                             Register
                         </v-btn>
