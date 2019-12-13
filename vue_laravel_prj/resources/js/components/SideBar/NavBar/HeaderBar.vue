@@ -40,36 +40,11 @@
             <v-btn class="hidden-sm-and-down" href="/login" text>Đăng nhập</v-btn>
             <v-btn class="hidden-sm-and-down" href="/register" text>Đăng ký</v-btn>
         </v-toolbar-items>
-
-        <v-navigation-drawer
-            v-model="drawer"
-            absolute
-            temporary
-        >
-<!--            <UserAccount />-->
-<!--            <v-divider></v-divider>-->
-<!--            <v-list dense>-->
-<!--                <Notification />-->
-<!--&lt;!&ndash;                <AnotherActionBar />&ndash;&gt;-->
-<!--&lt;!&ndash;                <SettingLanguage />&ndash;&gt;-->
-<!--            </v-list>-->
-        </v-navigation-drawer>
     </v-toolbar>
 </template>
 
 <script>
-    import UserAccount from "./LeftSideBar/UserAccount";
-    import Notification from "./LeftSideBar/Notification";
-    import AnotherActionBar from "./LeftSideBar/AnotherActionBar";
-    import SettingLanguage from "./LeftSideBar/SettingLanguage";
-
     export default {
-        components: {
-            UserAccount,
-            Notification,
-            AnotherActionBar,
-            SettingLanguage
-        },
         data() {
             return {
                 drawer: null,
