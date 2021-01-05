@@ -20,7 +20,7 @@
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^5.11.2",
     "@kazupon/vue-i18n-loader": "^0.3.0",
-    "axios": "^0.19",
+    "axios": "^0.21",
     "cross-env": "^5.1",
     "font-awesome": "^4.7.0",
     "laravel-mix": "^4.0.7",
